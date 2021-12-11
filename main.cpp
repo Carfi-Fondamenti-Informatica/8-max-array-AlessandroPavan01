@@ -15,3 +15,4 @@ int main(){
     cout<< numeroMax(numeri, dim) <<endl;
 
     return 0;
+}
